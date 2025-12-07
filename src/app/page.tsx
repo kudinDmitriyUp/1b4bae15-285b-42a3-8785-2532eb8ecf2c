@@ -50,7 +50,7 @@ export default function LandingPage() {
           title="Premium Insurance Solutions for Your Future"
           description="Sofia di Bella brings international expertise and multilingual excellence to comprehensive insurance planning. Protecting what matters most with personalized strategies tailored to your unique needs."
           tag="Expert Insurance Planning"
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1765122546565-o5yurpe8.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1765123018632-mhif0xee.jpg"
           imageAlt="Professional insurance consultant meeting with clients"
           buttons={[
             {
